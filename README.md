@@ -3,6 +3,7 @@
 3. Upon clicking a hog name, render the hog specialty
 4. Refactor props passed down to HogTile
 5. Add name sort
+6. Add filter
 
 
 # Hogwarts: The React app for fans of prize-winning pigs
