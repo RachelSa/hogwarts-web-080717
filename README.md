@@ -2,7 +2,7 @@
 2. Render all hog tiles with hog names
 3. Upon clicking a hog name, render the hog specialty
 4. Refactor props passed down to HogTile
-5. 
+5. Add name sort
 
 
 # Hogwarts: The React app for fans of prize-winning pigs
